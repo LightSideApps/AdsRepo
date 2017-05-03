@@ -1,0 +1,10 @@
+{
+  "ads": [
+    {
+      "order": 1,
+      "package_id": "com.happylion.surpriseegg",
+      "icon": "https://raw.githubusercontent.com/2d2b/AdsRepo/master/PromoImages/EggBannersEN.jpg",
+      "name": "Surprise Egg"
+    }
+  ]
+}
